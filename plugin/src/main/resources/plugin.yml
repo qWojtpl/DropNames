@@ -1,0 +1,6 @@
+name: DropNames
+version: '${project.version}'
+main: pl.dropnames.DropNames
+api-version: 1.19
+authors: [Assasin98980]
+description: Add display names to dropped entities
